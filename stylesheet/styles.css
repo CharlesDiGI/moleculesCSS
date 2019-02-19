@@ -47,6 +47,21 @@ table {
 /* fin du reset des valeurs */
 /* ******************************* */
 
+/* Global colors
+primary: #1abc9c    (alternate: #0FFF95)
+secondary: #0075A2
+alternate secondary: #ADF5FFform-signin
+
+grey dark: #253237
+grey middle: #31393C
+grey light: #5C6B73
+
+success: #2ecc71
+info: #f1c40f
+warning: #F7580E
+danger: #e51400
+ */
+
 /* ****************************************************** */
   /* Les headings */
 
@@ -175,7 +190,7 @@ table {
   .t-white { color: white; } */
   /* Global colors */
   
-.primary { background-color: #1abc9c}    
+.primary { background-color: #1abc9c}   
 .alt-primary { background-color: #0FFF95}
 .secondary { background-color: #0075A2}
 .alt-secondary { background-color: #ADF5FF}

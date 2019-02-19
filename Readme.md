@@ -11,3 +11,11 @@ Comme d'hab: `git clone` `bundle install` puis `rails db:create db:migrate db:se
 naaaaaan j'déconne. Ajourd'hui fait juste un `git clone`
 
 Et c'est tout !
+
+## En prod
+
+En fait je viens de push sur heroku, donc tu peux accéder à mes super pages (hum hum) directement ici:
+
+**https://atomic-eventbrite-charl.herokuapp.com/view/index.html**
+
+:heart:
